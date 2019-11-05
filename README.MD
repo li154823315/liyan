@@ -58,7 +58,7 @@ anntation.config specifies the gene/feature/repeat locations
 
 + [ ] 3. Avoid Tick marks out of main plot
 
-+ [ ] 4. Regenerate examples
++ [ ] 4. Regenerate examples.
 
 ## Citation:
 
